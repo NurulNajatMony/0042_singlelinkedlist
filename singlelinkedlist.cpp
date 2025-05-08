@@ -14,3 +14,9 @@ class linkedlist
     Node *START;
 }
 
+public:
+    linkedlist()
+    {
+        START = NULL;
+    }
+
